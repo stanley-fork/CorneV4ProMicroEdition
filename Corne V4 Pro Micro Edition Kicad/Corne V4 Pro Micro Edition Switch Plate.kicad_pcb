@@ -76,7 +76,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../Corne V4 Pro Micro Edition Switch Plate Gerbers/")
 		)
 	)
 	(net 0 "")
@@ -284,7 +284,7 @@
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "b9a2cd9d-a24e-4e42-befd-578790606f42")
+			(uuid "bcf0bea4-48c8-4db0-a79d-e928e21bd5a5")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -297,7 +297,7 @@
 			(at 0.75 0 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "2fd76589-66d9-40f8-80ea-bdd8ad41e0cc")
+			(uuid "7e6083af-f292-4ab1-9448-bcd13c1bee91")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -360,7 +360,7 @@
 			)
 			(fill solid)
 			(layer "B.SilkS")
-			(uuid "767176c1-f2a1-41dc-a94e-69aa65caa030")
+			(uuid "61340263-78ee-46a9-bb79-2ee6e13702f5")
 		)
 		(fp_poly
 			(pts
@@ -383,7 +383,7 @@
 			)
 			(fill solid)
 			(layer "B.SilkS")
-			(uuid "3141bf86-4023-4798-ba9f-8c8f531728a1")
+			(uuid "ada6dce8-d2a1-45e9-98c7-cda8963ed87f")
 		)
 		(fp_poly
 			(pts
@@ -413,7 +413,7 @@
 			)
 			(fill solid)
 			(layer "B.SilkS")
-			(uuid "3e3f2001-eabf-47d0-a511-6731de4468d8")
+			(uuid "f08f308c-5665-48c7-bf74-1eb0a68decb8")
 		)
 		(fp_poly
 			(pts
@@ -444,7 +444,7 @@
 			)
 			(fill solid)
 			(layer "B.SilkS")
-			(uuid "e39933e9-0225-4b5e-a438-0555d4b66bee")
+			(uuid "05d8d55d-661d-46b3-b31c-3400c7ea0fb0")
 		)
 		(fp_poly
 			(pts
@@ -473,7 +473,7 @@
 			)
 			(fill solid)
 			(layer "B.SilkS")
-			(uuid "ff00952e-133c-472d-aebb-cc6547058df6")
+			(uuid "f437d7e2-49d9-4baf-9c87-27cfb10c55ea")
 		)
 	)
 	(gr_line

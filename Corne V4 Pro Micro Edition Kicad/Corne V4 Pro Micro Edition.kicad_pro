@@ -488,7 +488,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "corne.net",
-      "plot": "../Production Files/",
+      "plot": "../Corne V4 Pro Micro Edition PCB Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../corne-pcb.STEP",
