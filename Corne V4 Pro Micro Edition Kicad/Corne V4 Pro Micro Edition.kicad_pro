@@ -488,7 +488,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "corne.net",
-      "plot": "../Corne V4 PME Production Gerber Files/",
+      "plot": "../Production Files/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../corne-pcb.STEP",
