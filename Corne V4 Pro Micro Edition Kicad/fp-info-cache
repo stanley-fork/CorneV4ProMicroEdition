@@ -1,4 +1,4 @@
-25125389844514117
+25173674504349380
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6425,6 +6425,202 @@ capacitor tantalum
 0
 2
 2
+ClaudeFoot
+B3U-1000P
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
+Tactile Switch
+0
+2
+2
+ClaudeFoot
+Battery Pads
+
+
+0
+2
+2
+ClaudeFoot
+Breakaway_Tabs
+
+
+0
+0
+0
+ClaudeFoot
+EC11_Rotary_Encoder
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+ClaudeFoot
+Kea Workshop Logo
+
+
+0
+0
+0
+ClaudeFoot
+M2_Hole_TH_7mm_Standoff
+
+
+0
+0
+0
+ClaudeFoot
+MJ-4PP-9
+
+
+0
+4
+4
+ClaudeFoot
+MSK-12C02 Toggle Switch
+Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf
+
+0
+5
+3
+ClaudeFoot
+PH_S2B-PH2-K_1x02_P2.00mm_Horizontal
+JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+2
+2
+ClaudeFoot
+Pro_Micro_Footprint_CornePME
+Footprint for nice!nano (nRF52850 pro-micro compatible controller), USB pointing away from PCB
+
+0
+26
+26
+ClaudeFoot
+Pro_Micro_Footprint_Kiwi
+Footprint for nice!nano (nRF52850 pro-micro compatible controller), USB pointing away from PCB
+
+0
+26
+26
+ClaudeFoot
+Reset_3x6x4.3
+
+
+0
+2
+2
+ClaudeFoot
+SK12D07VG4
+
+
+0
+5
+5
+ClaudeFoot
+SMD_SOD123
+Resitance 3 pas
+R
+0
+2
+2
+ClaudeFoot
+SMD_SOD123_Leaded
+Resitance 3 pas
+R
+0
+4
+2
+ClaudeFoot
+SW_MXchocGLP_HS_1u
+Hotswap footprint for Kailh Choc and MX style switches
+
+0
+6
+2
+ClaudeFoot
+SW_MXchoc_HS_1u
+Hotswap footprint for Kailh Choc and MX style switches
+
+0
+4
+2
+ClaudeFoot
+SW_MXchoc_HS_1u_Encoder
+Hotswap footprint for Kailh Choc and MX style switches with an Encoder
+
+0
+11
+5
+ClaudeFoot
+SW_MXchoc_HS_1u_Reversible
+Hotswap footprint for Kailh Choc and MX style switches
+
+0
+8
+2
+ClaudeFoot
+TRRS-PJ-320A
+
+
+0
+4
+4
+ClaudeFoot
+USB_C_Daugher_Board
+
+
+0
+4
+4
+ClaudeFoot
+Universal_Pro_Micro_Footprint
+Footprint for nice!nano (nRF52850 pro-micro compatible controller), USB pointing away from PCB
+
+0
+26
+26
+ClaudeFoot
+corne-logo-horizontal
+
+
+0
+0
+0
+ClaudeFoot
+nice_nano_AH_USBup
+Footprint for nice!nano (nRF52850 pro-micro compatible controller), USB pointing away from PCB
+
+0
+24
+24
+ClaudeFoot
+nice_view
+
+
+0
+5
+5
+ClaudeFoot
+spacer_m2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+ClaudeFoot
+thread_m2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+ClaudeFoot
+thread_m2_1
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
 Connector
 Banana_Cliff_FCR7350B_S16N-PC_Horizontal
 Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, black, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
